@@ -6,3 +6,4 @@
 # Tugas PRPLBK Modul 2
 ## Kelompok 08
 - Muhammad Hafizh Zikry - 21120120120034
+- Faizal Lutfi Yoga Triadi - 21120120140158
