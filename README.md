@@ -8,3 +8,4 @@
 - Muhammad Hafizh Zikry - 21120120120034
 - Faizal Lutfi Yoga Triadi - 21120120140158
 - Muhammad Dhiva Pradigta - 21120120140054
+- Adivia Khusnul Aisha - 21120120120019
