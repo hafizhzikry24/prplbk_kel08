@@ -48,7 +48,7 @@ function App() {
       <div className="main">
 
       <h1>Praktikum RPLBK - Modul 2</h1>
-      <h1>Kelompok 11</h1>
+      <h1>Kelompok 08</h1>
 
         <Card />
         <form action="" onSubmit={handleSubmit}>
